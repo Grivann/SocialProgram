@@ -1,10 +1,12 @@
-# 📊 Social Program Evaluation & Budget Optimization
+# NSS, IIT ROORKEE
+
+# Social Program Evaluation & Budget Optimization
 
 A data-driven evaluation of a multi-intervention education program operating across 200 schools in Rajasthan. This project uses statistical modeling, cost-effectiveness analysis, and policy simulation to identify which interventions generate the highest learning outcomes per rupee spent and recommends an optimized budget allocation strategy.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Many social programs combine multiple interventions without evaluating which components actually drive outcomes.
 
@@ -18,7 +20,7 @@ This project aims to:
 
 ---
 
-## 🏫 Program Evaluated
+## Program Evaluated
 
 The education program consists of three interventions:
 
@@ -34,7 +36,7 @@ The education program consists of three interventions:
 
 ---
 
-## 📈 Methodology
+## Methodology
 
 ### Outcome Variable
 
@@ -65,7 +67,7 @@ Score_Gain =
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas
@@ -76,7 +78,7 @@ Score_Gain =
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── SocialProgram_Evaluation.ipynb      # Complete analysis notebook
@@ -88,7 +90,7 @@ Score_Gain =
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### Regression Results
 
@@ -107,7 +109,7 @@ Score_Gain =
 
 ---
 
-## 💰 Cost-Effectiveness Analysis
+## Cost-Effectiveness Analysis
 
 | Intervention | Cost per School | Score Gain | Score Gain per ₹1000 |
 |-------------|---------------|------------|----------------------|
@@ -117,11 +119,11 @@ Score_Gain =
 
 ### Ranking
 
-🥇 Remedial Teaching
+ Remedial Teaching
 
-🥈 ASHA Health Visits
+ ASHA Health Visits
 
-🥉 Mid-Day Meal
+ Mid-Day Meal
 
 Remedial Teaching was found to be:
 
@@ -130,7 +132,7 @@ Remedial Teaching was found to be:
 
 ---
 
-## 📊 Budget Optimization Strategy
+## Budget Optimization Strategy
 
 ### Current Budget
 
@@ -156,7 +158,7 @@ from lower-ROI budget lines toward expanding remedial teaching coverage.
 
 ---
 
-## 🚀 Projected Impact
+## Projected Impact
 
 | Outcome | Current | Optimized |
 |----------|----------|----------|
@@ -172,7 +174,7 @@ from lower-ROI budget lines toward expanding remedial teaching coverage.
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 This analysis uses observational data and therefore does not establish causality.
 
@@ -191,7 +193,7 @@ Future validation should include:
 
 ---
 
-## 📌 Policy Recommendation
+## Policy Recommendation
 
 The evidence strongly suggests prioritizing **Remedial Teaching** as the highest-return educational investment.
 
@@ -199,7 +201,7 @@ Rather than increasing overall expenditure, policymakers can improve learning ou
 
 ---
 
-## 📚 References
+## References
 
 - J-PAL South Asia
 - Pratham – Teaching at the Right Level (TaRL)
