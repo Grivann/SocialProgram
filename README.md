@@ -212,7 +212,10 @@ Rather than increasing overall expenditure, policymakers can improve learning ou
 
 ## Author
 
-Grivann Patwa, 23113058
-Aarush Manglecha, 23113002
+- Grivann Patwa, 23113058
+- Aarush Manglecha, 23113002
+- Krish Jain, 23113087
+- Dhruv, 23113050
+- Hardik Goyal, 23113060
 
 Data Analytics | Econometrics | Social Impact Evaluation
